@@ -1,0 +1,11 @@
+{
+	"idle_anim": "touchcreator idle",
+	"image": "menu_touch",
+	"position": [
+		300,
+		200
+	],
+	"flipX": false,
+	"scale": 0.75,
+	"confirm_anim": "M Dad Idle"
+}

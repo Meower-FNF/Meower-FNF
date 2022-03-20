@@ -1,4 +1,16 @@
 {
+	"storyName": "Meower Devs Week",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
 	"songs": [
 		[
 			"Rebirth",
@@ -10,23 +22,11 @@
 			]
 		]
 	],
-	"hiddenUntilUnlocked": false,
-	"hideFreeplay": false,
-	"weekBackground": "stage",
-	"difficulties": "Normal",
 	"weekCharacters": [
-		"dad",
+		"touch",
 		"bf",
 		""
 	],
-	"storyName": "Meower Devs Week",
-	"weekName": "Week Devs",
-	"freeplayColor": [
-		146,
-		113,
-		253
-	],
-	"hideStoryMode": false,
-	"weekBefore": "",
-	"startUnlocked": true
+	"hiddenUntilUnlocked": false,
+	"weekName": "Week Devs"
 }

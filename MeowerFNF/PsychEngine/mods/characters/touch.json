@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "touchcreator idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				3,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "touchcreator left"
+		},
+		{
+			"offsets": [
+				3,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "touchcreator down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				2
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "touchcreator up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-23,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "touchcreator right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/touchcreator",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "guy",
+	"flip_x": false,
+	"healthbar_colors": [
+		235,
+		155,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 2,
+	"scale": 1
+}

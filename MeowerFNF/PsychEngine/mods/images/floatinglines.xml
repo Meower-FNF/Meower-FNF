@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="floatinglines.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="floatlines0000" x="0" y="0" width="1012" height="538"/>
+	<SubTexture name="floatlines0001" x="1012" y="0" width="1012" height="538"/>
+	<SubTexture name="floatlines0002" x="2024" y="0" width="1012" height="538"/>
+	<SubTexture name="floatlines0003" x="3036" y="0" width="1012" height="538"/>
+	<SubTexture name="floatlines0004" x="4048" y="0" width="1012" height="538"/>
+	<SubTexture name="floatlines0005" x="5060" y="0" width="1012" height="538"/>
+	<SubTexture name="floatlines0006" x="6072" y="0" width="1012" height="538"/>
+	<SubTexture name="floatlines0007" x="7084" y="0" width="1012" height="538"/>
+	<SubTexture name="floatlines0008" x="0" y="538" width="1012" height="538"/>
+	<SubTexture name="floatlines0009" x="1012" y="538" width="1012" height="538"/>
+	<SubTexture name="floatlines0010" x="2024" y="538" width="1012" height="538"/>
+	<SubTexture name="floatlines0011" x="3036" y="538" width="1012" height="538"/>
+	<SubTexture name="floatlines0012" x="4048" y="538" width="1012" height="538"/>
+	<SubTexture name="floatlines0013" x="5060" y="538" width="1012" height="538"/>
+	<SubTexture name="floatlines0014" x="6072" y="538" width="1012" height="538"/>
+	<SubTexture name="floatlines0015" x="7084" y="538" width="1012" height="538"/>
+	<SubTexture name="floatlines0016" x="0" y="1076" width="1012" height="538"/>
+	<SubTexture name="floatlines0017" x="1012" y="1076" width="1012" height="538"/>
+	<SubTexture name="floatlines0018" x="2024" y="1076" width="1012" height="538"/>
+	<SubTexture name="floatlines0019" x="3036" y="1076" width="1012" height="538"/>
+	<SubTexture name="floatlines0020" x="4048" y="1076" width="1012" height="538"/>
+	<SubTexture name="floatlines0021" x="5060" y="1076" width="1012" height="538"/>
+	<SubTexture name="floatlines0022" x="6072" y="1076" width="1012" height="538"/>
+	<SubTexture name="floatlines0023" x="7084" y="1076" width="1012" height="538"/>
+	<SubTexture name="floatlines0024" x="0" y="1614" width="1012" height="538"/>
+	<SubTexture name="floatlines0025" x="1012" y="1614" width="1012" height="538"/>
+	<SubTexture name="floatlines0026" x="2024" y="1614" width="1012" height="538"/>
+	<SubTexture name="floatlines0027" x="3036" y="1614" width="1012" height="538"/>
+	<SubTexture name="floatlines0028" x="4048" y="1614" width="1012" height="538"/>
+	<SubTexture name="floatlines0029" x="5060" y="1614" width="1012" height="538"/>
+	<SubTexture name="floatlines0030" x="6072" y="1614" width="1012" height="538"/>
+	<SubTexture name="floatlines0031" x="7084" y="1614" width="1012" height="538"/>
+	<SubTexture name="floatlines0032" x="0" y="2152" width="1012" height="538"/>
+	<SubTexture name="floatlines0033" x="1012" y="2152" width="1012" height="538"/>
+	<SubTexture name="floatlines0034" x="2024" y="2152" width="1012" height="538"/>
+	<SubTexture name="floatlines0035" x="3036" y="2152" width="1012" height="538"/>
+	<SubTexture name="floatlines0036" x="4048" y="2152" width="1012" height="538"/>
+	<SubTexture name="floatlines0037" x="5060" y="2152" width="1012" height="538"/>
+	<SubTexture name="floatlines0038" x="6072" y="2152" width="1012" height="538"/>
+	<SubTexture name="floatlines0039" x="0" y="0" width="1012" height="538"/>
+</TextureAtlas>
